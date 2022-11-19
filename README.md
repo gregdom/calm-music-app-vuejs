@@ -1,7 +1,7 @@
-Veja o projeto funcionando (Netlify):
-https://tiny-entremet-374c5d.netlify.app/
-
 # relaxing-sound
+
+Veja o projeto funcionando (Netlify): <br />
+https://tiny-entremet-374c5d.netlify.app/
 
 ## Project setup
 ```
